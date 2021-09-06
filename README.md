@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve<sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronounce">`🔊`</a></sup>)</a> 
+## Hi, 👋  I'm <a href="https://github.com/zhubinsheng" target="_blank">Zhu BinSheng (Charmve<sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronounce">`🔊`</a></sup>)</a> 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+  <a href="https://github.com/zhubinsheng" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=zhubinsheng&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
